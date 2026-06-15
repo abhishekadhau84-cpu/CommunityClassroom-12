@@ -1,0 +1,4 @@
+hello there!
+my name is Abhishek
+I am from Maharashtra and graduated enginner
+today i learnt about git and GitHub from kunal and how i upload and download the projects from GitHub, making some Repo etc.
